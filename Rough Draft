@@ -1,26 +1,51 @@
 What specific data are we collecting? How does it help predict player performance?
+All of this is reference per game basis
 
 Basketball
-- Player scoring average
-- MPG
-
+- PPG (Points per game)
+- MPG (Minutes per game)
+- Assists
+- Blocks
+- Steals
+- 3-point %
+- free throw %
+- teams
+-- average team offensive/defensive rating
+-- team statistical percentages
 
 Football (Soccer)
-- Player scoring average
-- MPG
-
+- Touches
+- Shot attempts
+- Free kicks allowed/attempted
+- Passes
+- Goals
+- teams
+-- average team offensive/defensive rating
+-- team statistical percentages
 
 Baseball
-- Player scoring average
-- MPG
-
+- Non-Pitcher
+-- Hits
+-- RBI
+-- Stolen Bases
+- Pitcher
+-- Strikeouts
+-- Batters Walked
+-- Hits Allowed
+- teams
+-- average team offensive/defensive rating
+-- team statistical percentages
 
 American Football
-- Player scoring average
-- MPG
-
-
-
+- Quarterback
+-- YPG (Yards per game) (both throwing and rushing)
+- Running Back
+-- YPG (Rushing, Receiving)
+- Wide Receiver
+-- YPG (Receiving)
+- teams
+-- average team offensive/defensive rating
+-- team statistical percentages
 
 
 Historical cap is last two seasons.
